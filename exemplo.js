@@ -26,14 +26,15 @@ comentario em texto
 // let resultado = numero1 + numero2
 // /console.log(resultado)
 
-let idade = window.prompt ("qual a sua idade?")
+// let idade = window.prompt ("qual a sua idade?")
 
-if(idade >=18){
-    console.log("maior de idade! dale")
-}else{
+// if(idade >=18){
+//     console.log("maior de idade! dale")
+// }else{
 
-console.log("voce é menor de idade!")
+// console.log("voce é menor de idade!")
 
-}
+// }
+
 
 
