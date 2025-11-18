@@ -1,6 +1,6 @@
 let anoNacimento = parseInt(prompt("digite o ano de nascimento"))
 
-let let anoAtual = new Date().getFullYear()
+let  anoAtual = new Date().getFullYear()
 
 let idade = anoAtual - anoNacimento
 
